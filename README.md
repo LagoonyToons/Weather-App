@@ -1,3 +1,5 @@
+### NOTE: The API key has expired so the software can no longer be run
+
 # Team Coconuts
 
 ### Members
